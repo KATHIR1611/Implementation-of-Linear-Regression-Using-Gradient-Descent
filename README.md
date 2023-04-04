@@ -94,22 +94,28 @@ Profit prediction graph
 ![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20201.png)
 
 Compute cost value
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20202.png)
 
 h(x) value
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20203.png)
 
 Cost function using gradient graph
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20204.png)
 
 Profit prediction grap
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20205.png)
 
 Profit for the population 35,000
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20206.png)
 
 Profit for population 70,000
-![]()
+
+![](https://github.com/KATHIR1611/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20207.png)
 
 
 
