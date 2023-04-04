@@ -114,5 +114,6 @@ Profit for population 70,000
 
 
 
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
