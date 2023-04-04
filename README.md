@@ -89,6 +89,27 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 
 ## Output:
+Profit prediction graph
+![]()
+
+Compute cost value
+![]()
+
+h(x) value
+![]()
+
+Cost function using gradient graph
+![]()
+
+Profit prediction grap
+![]()
+
+Profit for the population 35,000
+![]()
+
+Profit for population 70,000
+![]()
+
 
 
 
