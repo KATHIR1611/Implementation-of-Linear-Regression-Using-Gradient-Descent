@@ -33,26 +33,19 @@ plt.ylabel("Profit ($10,000")
 plt.title("Profit Prediction")
 
 def computeCost(x,y,theta):
-  """
-  Take in a numpy array x, y, theta and generate the cost function ina linear regression model
-  """
   m=len(y) #length of the training data
   h=x.dot(theta) #hypothesis
   square_err=(h - y)**2
-  return 1/(2*m) * np.sum(square_err) #returning J
+  return 1/(2*m) * np.sum(square_err) 
   
 data_n=data.values
 m=data_n[:,0].size
 x=np.append(np.ones((m,1)),data_n[:,0].reshape(m,1),axis=1)
 y=data_n[:,1].reshape(m,1)
 theta=np.zeros((2,1))
-computeCost(x,y,theta) #call the function
+computeCost(x,y,theta) 
 
 def gradientDescent(x,y,theta,alpha,num_iters):
-  """
-  Take in numpy array x, y and theta and update theta by taking num_iters with learning rate of alpha
-  return theta and the list of the cost of theta during each iteration
-  """
   m=len(y)
   J_history=[]
   for i in range(num_iters):
