@@ -15,6 +15,7 @@ To write a program to predict the profit of a city using the linear regression m
 3. Define a function named gradientDescent and iterate the loop
 4. Predict the required graphs using scatterplots.
 ## Program:
+Program to implement the linear regression using gradient descent.
 
 Developed by: KATHIRVELAN.K
 
