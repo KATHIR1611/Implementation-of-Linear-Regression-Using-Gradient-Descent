@@ -1,5 +1,7 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 
+Date : 
+
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
@@ -14,12 +16,7 @@ To write a program to predict the profit of a city using the linear regression m
 4. Predict the required graphs using scatterplots.
 ## Program:
 
-
-Program to implement the linear regression using gradient descent.
-
-
 Developed by: KATHIRVELAN.K
-
 
 RegisterNumber: 212221220026 
 ```
